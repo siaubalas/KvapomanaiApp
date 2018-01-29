@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kvapomanai</string>
+
+    <string name="login_username_textf">Prisijungimo vardas</string>
+    <string name="login_password_textf">Slaptažodis</string>
+    <string name="login_remember_checkb">Prisiminti mane?</string>
+    <string name="login_login_button">Prisijungti</string>
+    <string name="login_register_button">Registruotis</string>
+    <string name="login_invalid_username">Klaidingai įvestas vartotojo vardas</string>
+    <string name="login_invalid_password">Klaidingai įvestas vartotojo slaptažodis</string>
+    <string name="login_invalid_email">Klaidingai įvestas vartotojo slaptažodis</string>
+
+    <string name="reg_name_textf">Vardas</string>
+    <string name="reg_surname_textf">Pavardė</string>
+    <string name="reg_email_textf">Elektroninis paštas*</string>
+    <string name="reg_gender_radiog">Lytis</string>
+    <string name="reg_city_dropm">Miestas</string>
+    <string name="reg_male_radiob">Vyras</string>
+    <string name="reg_female_radiob">Moteris</string>
+    <string name="reg_username_textf">Prisijungimo vardas*</string>
+    <string name="reg_password_textf">Slaptažodis*</string>
+
+
+
+
+
+</resources>
